@@ -1,7 +1,4 @@
 
 print("Hello World!!!!")
 
-a  = 34
-b = 8
-
-print(a + b)
+print("Mari, va a ser muy pro en Python!!!!!")
